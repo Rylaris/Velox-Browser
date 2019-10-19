@@ -97,7 +97,7 @@
     <string name="setting_summary_font">更改显示网站的字体大小。</string>
     <string name="setting_title_remote">远程内容</string>
     <string name="setting_summary_remote">启用远程内容，这不是直接来自您正在访问的网站。禁用此功能更安全、更快、更节省数据量。但是有些内容将不再显示。</string>
-    <string name="setting_title_save_data">请求\ '保存数据\ '</string>
+    <string name="setting_title_save_data">请求\'保存数据\'</string>
     <string name="setting_summary_save_data">告诉网站您喜欢保存数据，受支持的网站加载速度更快。</string>
     <!-- Browser start -->
     <string name="setting_title_images">网络图片</string>
