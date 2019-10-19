@@ -149,9 +149,11 @@
 
     </RelativeLayout>
 
-    <include layout="@layout/activity_main_content"
+    <include
+        layout="@layout/activity_main_content"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_above="@+id/appBar"/>
+        android:layout_above="@+id/appBar"
+        android:layout_marginBottom="-2dp" />
 
 </RelativeLayout>
