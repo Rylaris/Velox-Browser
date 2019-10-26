@@ -71,7 +71,6 @@ public class Settings_Activity extends AppCompatActivity {
         if (menuItem.getItemId() == android.R.id.home) {
             finish();
         }
-
         return true;
     }
 }
