@@ -52,7 +52,7 @@ public class BrowserUnit {
     private static final String SEARCH_ENGINE_GOOGLE = "https://www.google.com/search?q=";
     private static final String SEARCH_ENGINE_DUCKDUCKGO = "https://duckduckgo.com/?q=";
     private static final String SEARCH_ENGINE_STARTPAGE = "https://startpage.com/do/search?query=";
-    private static final String SEARCH_ENGINE_BING = "http://www.bing.com/search?q=";
+    private static final String SEARCH_ENGINE_BING = "http://www.bing.cn/search?q=";
     private static final String SEARCH_ENGINE_BAIDU = "https://www.baidu.com/s?wd=";
     private static final String SEARCH_ENGINE_QWANT = "https://www.qwant.com/?q=";
     private static final String SEARCH_ENGINE_ECOSIA = "https://www.ecosia.org/search?q=";

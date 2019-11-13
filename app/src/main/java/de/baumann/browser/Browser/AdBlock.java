@@ -33,7 +33,7 @@ public class AdBlock {
                         hosts.add(line.toLowerCase(locale));
                     }
                 } catch (IOException i) {
-                    Log.w("Browser", "Error loading hosts", i);
+                    Log.w("Browser", "Error loading", i);
                 }
             }
         });
