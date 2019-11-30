@@ -1,59 +1,56 @@
-## Privacy Policy
+## 隐私政策
 
-This is the developer's policy with respect to data collection, use of data collected and the security of the collected data when you utilize the services of Our software and the choices you have associated with that data. By utilizing the software you accept to adhere to the terms and conditions of this Policy statement. This Policy applies solely to our software(FOSS Browser) and the developer is not responsible for the content or privacy practices on any third party app not operated by the developer to which this software links or that links to this software. <hr>
+这是开发人员在数据收集，数据使用以及数据安全性方面的政策。当您使用该软件时，默认为您接受遵守本声明的条款。本声明仅适用于我们的软件（Velox浏览器），对于由该软件链接或链接到该软件的非开发人员所操作的任何第三方应用程序的内容或隐私惯例，开发人员概不负责。
 
-## Information Collection And Use
+## 信息收集和使用
 
-FOSS Browser software requires certain functionalities and permissions to be enabled to ensure smooth operation when it's services are utilized, however, none of these technicalities explicitly allow or give the developer access to your personal or private information.
+Velox浏览器软件需要启用某些功能和权限才能确保正常运行，但是这些技术都没有明确允许开发人员访问您的私人信息。
 
-For the software to function efficiently the following permissions are required:
+为了使软件有效运行，需要以下权限：
 
-- location (disabled by default))
-- storage (to download files and make screenshots)
-- internet access (Yeah, it's internet browser)
+- 位置（默认情况下禁用）
+- 存储（下载文件并制作屏幕截图）
+- 互联网访问
 
-These permissions can be disabled if you don't require the service they provide. <hr>
+如果您不需要它们提供的服务，则可以禁用这些权限。
 
-### Types of Data Collected
+### 收集的数据类型
 
-#### Personal Data
+#### 个人资料
 
-FOSS browser has the capabilities of collecting your location details to access your approximate location(network-based) and even your precise location(GPS and network-based). This is only possible if you enable location permission. The developer doesn't have access to this information, it is only utilized within the premise of the software.
+Velox浏览器具有收集您的位置详细信息的功能，以访问您的大概位置（基于网络）甚至精确的位置（基于GPS和网络）。仅当您启用位置权限时才有可能。开发人员无法访问此信息，只能在软件前提下使用。
 
-#### Usage Data
+#### 使用数据
 
-FOSS Browser doesn't collect any data. FOSS Browser isn't responsible for any data collected by opened websites. 
+Velox浏览器本身不收集任何数据。 Velox浏览器对打开的网站收集的任何数据概不负责。
     
-## Security Of Data
 
-The security of your data is important but no method of transmission over the internet or electronic storage is 100% secure, therefore the developer doesn't guarantee its absolute security. <hr>
+## 数据安全
 
-## Service Providers
+数据的安全性很重要，但是通过网络进行传输或电子存储都不是100％安全的，因此开发人员不能保证其绝对安全。 
 
-FOSS browser does not require the services of third parties. It is designed to function independently as a browser needing only the permissions as stated earlier above to function efficiently. Links from other third-party service providers can however, be opened using FOSS browser. <hr>
- 
-## Changes To This Privacy Policy
+## 服务供应商
 
-This privacy policy may be updated from time to time as the functionalities of the software are further developed and improved and may likely contain disparities that will nullify this current policy. <hr>
-      
-## Disclaimer    
+Velox浏览器不需要第三方的服务。它被设计为独立的浏览器，仅需要上述权限即可有效运行。但是，可以使用Velox浏览器打开来自其他第三方服务提供商的链接。
 
-FOSS browser is developed in good faith for general use. The developer will not in any way be liable or shouldn't be held accountable for any losses and/or damages in connection with the use of the software. <hr>
+## 隐私政策的变更
 
-## About
+随着软件功能的进一步发展和改进，该隐私政策可能会不时更新，并且可能包含可能使当前政策无效的差异。 
 
-FOSS browser is an open source browser developed for the Android operating system. It is light and has an easy to understand UI. 
+## 免责声明
 
-Some features of FOSS browser include;
+Velox浏览器是开发用于一般用途的。对于与使用软件有关的任何损失或损害，开发人员概不负责，也不承担任何责任。
 
-- search on site
-- open links in the background
-- Web search (from marked text context menu)
-- screenshots of the whole website
-- open links in other apps (for example YouTube)
+## 关于
 
-Please spread the word and share this app with anyone you think could benefit from it.  <hr>
+Velox浏览器是基于FOSS Browser进行二次开发，为Android操作系统开发的开源浏览器，是一个简洁的浏览器。
 
-## Contact 
+Velox浏览器的一些功能包括：
 
-FOSS Browser would certainly improve with contributions from the open source community. Feel free to make contributions and suggestions to this project either by opening an issue or implementing opening pull requests of those suggestions and improvements. For further inquiry regarding this privacy policy or any other issue relating to the development or within the circumference of FOSS browser, please contact the developer directly via email or by opening an [issue](https://github.com/scoute-dich/browser/issues/new) on the app's official repository here on Github. Please also check if the issue you want to open hasn't been previously open.
+- 网页搜索
+- 在后台打开链接
+- Web搜索（从标记的文本上下文菜单中）
+- 对整个网页进行截图
+- 在其他应用中打开链接
+
+您可以传播该信息，并与您认为可以从中受益的任何人共享此应用。 

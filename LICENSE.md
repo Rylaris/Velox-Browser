@@ -1,32 +1,29 @@
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+这是一个开源软件： 你可以在遵守GNU General Public License协议的前提下对它进行编译或修改。
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
+这个软件的开发希望能帮到一些人，
+但是没有任何保证；尤其是没有对适用性与适销性的保证。
+查看GNU General Public License协议获取更多信息。
 
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <http://www.gnu.org/licenses/>.
+您应该已经收到GNU General Public License的副本，如果没有，请查看http://www.gnu.org/licenses
 
-**Used open source libraries:**
+该软件使用了以下开源库或项目：
 
-"Android Observable ScrollView"
-https://github.com/ksoichiro/Android-ObservableScrollView
+FOSS Browser
+GNU General Public License, Version 3.0
+Gaukler Faun
+https://github.com/scoute-dich/browser
 
-"Android Onboarder"
-https://github.com/chyrta/AndroidOnboarder
-
-"Glide"
-https://github.com/bumptech/glide
-
-"MAH Encryptor Lib"
-https://github.com/hummatli/MAHEncryptorLib
-
-"Material About Library"
-https://github.com/daniel-stoneuk/material-about-library
-
-"Material Design Icons"
+Material Design Icons
+SIL Open Font License, Version 1.1
+Templarian
 https://github.com/Templarian/MaterialDesign
+
+Ninja
+Apache License Version 2.0
+Matthew Lee
+http://git.io/vUrEh
+
+SimpleEncryptionLib
+Apache License Version 2.0
+hummatli
+https://github.com/hummatli/SimpleEncryptionLib
